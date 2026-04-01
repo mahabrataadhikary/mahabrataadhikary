@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mahabrataadhikary@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://mahabrata.vercel.app/](https://mahabrata.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://mahabrata.me/](https://mahabrata.me/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
