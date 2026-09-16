@@ -63,4 +63,3 @@
 ## ⚡ Philosophy
 
 > Build useful things. Learn continuously. Stay consistent.
-```
