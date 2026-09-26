@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋 I'm Mahabrata Adhikary</h1>
 
 <p align="center">
-🎓 3rd Year B.Tech Student • 💻 Frontend Developer • 🚀 Aspiring Entrepreneur
+🎓 Final Year B.Tech Student • 💻 Frontend Developer • 🚀 Aspiring Entrepreneur
 </p>
 
 ---
